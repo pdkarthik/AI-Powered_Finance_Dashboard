@@ -103,7 +103,7 @@ Outputs deep calculated intelligence preventing the user from doing mental math.
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/pdkarthik/Zorvyn-Finance-Dashboard-UI-Assignment.git
    ```
 
 2. **Navigate into the project root**:
